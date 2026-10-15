@@ -242,10 +242,5 @@ The backend provides endpoints for authentication, product management, shopping 
 - Deployment documentation and production configuration
 - Automated testing for critical API and payment flows
 
-## 📄 License
-
-This project is intended for learning, experimentation, and portfolio demonstration. No formal open-source license is specified. Add an appropriate license before permitting reuse or redistribution under specific terms.
-
----
 
 **Built with React, Node.js, Express, MongoDB, and Google Gemini AI.**
